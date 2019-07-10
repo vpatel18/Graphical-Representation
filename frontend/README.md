@@ -10,10 +10,6 @@ To install the package use above yarn command
 
 ### `npx crcf src/Components/MyComponent`
 
-This will Create a new component folder
-
-### `npm run storybook`
-
 Launches the storybook to check custom component
 
 ### `npm start`

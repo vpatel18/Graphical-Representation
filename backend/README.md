@@ -10,3 +10,15 @@ To install the package use above yarn command
 
 Runs the playground<br>
 Open [http://localhost:4000](http://localhost:4000) to view it in the browser.
+
+### Pass query in playground and run to get response
+
+ query GetMatrixList {
+    GetMatrixList {
+      _id
+      value
+      sensorType
+      time
+    }
+  }
+  
