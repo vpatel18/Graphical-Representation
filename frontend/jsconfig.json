@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "module": "commonjs",
+    "experimentalDecorators": true,
+    "baseUrl": "src",
+    "paths": {
+      "Images": ["Assets/index.js"],
+      "Components/*": ["Components/*"],
+      "Hoc/*": ["Hoc/*"],
+      "Utils/*": ["Utils/*"],
+      "Containers": ["Containers/*"]
+    }
+  },
+  "exclude": ["node_modules", "dist"],
+  "include": ["src/**/*"]
+}

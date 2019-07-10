@@ -1,0 +1,52 @@
+@font-face {
+  font-family: "proxima_nova_rgbold";
+  src: url("./Assets/fonts/proximanova-bold-webfont.woff2") format("woff2"),
+    url("./Assets/fonts/proximanova-bold-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "proxima_novalight";
+  src: url("./Assets/fonts/proximanova-light-webfont.woff2") format("woff2"),
+    url("./Assets/fonts/proximanova-light-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "proxima_novaregular";
+  src: url("./Assets/fonts/proximanova-reg-webfont.woff2") format("woff2"),
+    url("./Assets/fonts/proximanova-reg-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "proxima_novasemibold";
+  src: url("./Assets/fonts/proximanova-sbold-webfont.woff2") format("woff2"),
+    url("./Assets/fonts/proximanova-sbold-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+body {
+  font-family: "proxima_novaregular";
+  padding-top: 5rem;
+}
+.ant-table-placeholder {
+  .ant-empty-normal {
+    margin: 0;
+  }
+}
+.ant-form-item {
+  margin: 0;
+
+  label {
+    color: #b0b0b0;
+  }
+}
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
