@@ -16,7 +16,7 @@
     "@babel/preset-env": "^7.4.4",
     "@babel/register": "^7.4.4",
     "apollo-server": "^2.4.8",
-    "apollo-server-express": "^2.4.8",
+    "apollo-server-express": "^2.14.2",
     "aws-sdk": "^2.452.0",
     "babel-core": "^6.26.3",
     "babel-plugin-graphql-tag": "^2.1.0",
